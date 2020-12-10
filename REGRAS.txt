@@ -1,0 +1,7 @@
+Só é possível fazer comentários e/ou postar fotos fazendo login.
+Para o botão de Exibir mais comentários funcionar, precisam ter + de 2 comentários na postagem.
+
+Se não quiser proceder com a criação de um cadastro:
+
+Login: teste@teste.com
+Senha: teste123
