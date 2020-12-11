@@ -4,9 +4,11 @@
 <p>Equipe:</p>
 <br>
 <ul>
+	<li>Gabriel Borges Calheiros - 029181066</li>
+	<br>
 	<li>Guilherme Luiz Garcia Lefrançois - 029181030</li>
 	<br>
-	<li>Claudio Rubens Silva Evangelista Brito - 029180007</li>
+	<li>Guido Gusmão Gomes Junior - 016161132</li>
 	<br>
 </ul>
 <hr>
