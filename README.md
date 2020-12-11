@@ -1,12 +1,14 @@
-<h3>Repositório criado para realizar a entrega do PROJETO FACSGRAM - referente a atividade 4</h3>
-<h5>Matéria: Desenvolvimento Mobile - Professor: Aristoteles - Data da entrega: 10/12/2020</h5>
+<h3>Repositorio criado para realizar a entrega do PROJETO FACSGRAM - referente a atividade 4</h3>
+<h5>Materia: Desenvolvimento Mobile - Professor: Aristoteles - Data da entrega: 10/12/2020</h5>
 <br>
 <p>Equipe:</p>
 <br>
 <ul>
-	<li>Guilherme Luiz Garcia Lefrançois - 029181030</li>
+	<li>Gabriel Borges Calheiros - 029181066</li>
 	<br>
-	<li>Claudio Rubens Silva Evangelista Brito - 029180007</li>
+	<li>Guido GusmÃ£o Gomes Junior - 016161132</li>
+	<br>
+	<li>Guilherme Luiz Garcia LefranÃ§ois - 029181030</li>
 	<br>
 </ul>
 <hr>
