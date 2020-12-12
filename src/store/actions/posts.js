@@ -66,7 +66,7 @@ export const addComment = payload => {
 export const setPosts = posts => {
     return {
         type: SET_POSTS,
-        payload: posts
+        payload: [...posts]
     }
 }
 
