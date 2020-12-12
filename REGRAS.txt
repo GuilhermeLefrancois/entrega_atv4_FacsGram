@@ -1,7 +1,10 @@
 Só é possível fazer comentários e/ou postar fotos fazendo login.
-Para o botão de Exibir mais comentários funcionar, precisam ter + de 2 comentários na postagem.
+Para o botão de Exibir mais comentários funcionar, precisam ter + de 2 comentários na postagem;
 
 Se não quiser proceder com a criação de um cadastro:
 
 Login: teste@teste.com
 Senha: teste123
+
+Lembrando que foi usado o GRAVATAR, onde só será possível ver a foto de perfil caso o usuário tenha cadastro no GRAVATAR.
+https://br.gravatar.com/
